@@ -26,12 +26,6 @@ I'm using R and its graphic package `ggplot` to perform exploratory data analysi
 
 ![Image of prosperloan](./images/prosperloan.png)
 
-### Enaible Productivity Analysis using Tableau
-[Project link](https://public.tableau.com/profile/katieha#!/vizhome/EnaibleAnalysis/Dashboard)
-
-Enaible is an AI-powered company that utilizes system data into personalized, prioritized leadership recommendations to maximize productivity. Using Enaible data, we want to find the insights can increase Enaible employee performance. Then, using the results to help improving its productivity system.
-
-![Image of enaible](./images/Enaible.png)
 
 ### Titanic data visualization using Tableau
 [Project link](https://public.tableau.com/profile/thao1267#!/vizhome/Titanic-feedback/Titanic-Story)
